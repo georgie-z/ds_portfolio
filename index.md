@@ -13,7 +13,7 @@ I used NLP techniques and trained a classification model to predict fake news ar
 <img src="images/word_cloud_small.jpg?raw=true"/>
 <br>
 <br>
-[![See](https://img.shields.io/badge/Jupyter-See%20Notebook-orange?style=for-the-badge&logo=Jupyter)](/notebooks/fake_news_detector.ipynb)
+[![See](https://img.shields.io/badge/Jupyter-See%20Notebook-orange?style=for-the-badge&logo=Jupyter)](https://github.com/georgie-z/portfolio/blob/source/notebooks/fake_news_detector.ipynb)
 <br>
 <br>
 For summary of findings, please refer to my [presentation](/pdf/fake_news_presso.pdf)
@@ -29,7 +29,7 @@ Full end-to-end data science process was applied to predict investment outcomes 
 <br>
 <img src="images/learn_curve.jpg?raw=true"/>
 <br>
-[![See](https://img.shields.io/badge/Jupyter-See%20Notebook-orange?style=for-the-badge&logo=Jupyter)](/notebooks/investment_prediction.ipynb)
+[![See](https://img.shields.io/badge/Jupyter-See%20Notebook-orange?style=for-the-badge&logo=Jupyter)](https://github.com/georgie-z/portfolio/blob/source/notebooks/investment_prediction.ipynb)
 <br>
 <br>
 To see detailed evaluation of the model, please refer to my [Model Evaluation Report](/pdf/investment_eval_report.pdf)
@@ -45,17 +45,17 @@ I've extracted salary data from seek.com.au through web-scraping techniques and 
 <br>
 <img src="images/salary.jpg?raw=true"/>
 <br>
-[![See](https://img.shields.io/badge/Jupyter-See%20Notebook-orange?style=for-the-badge&logo=Jupyter)](/notebooks/salary/)
+[![See](https://img.shields.io/badge/Jupyter-See%20Notebook-orange?style=for-the-badge&logo=Jupyter)](https://github.com/georgie-z/portfolio/blob/source/notebooks/salary/)
 
 ---
 
 ### Regression problem 
 
-[Real estate prediction](/regression.html)<br>
+[Real estate prediction](pdf/regression.pdf)<br>
 <br>
 I've built regression model to predict real estate property prices. Identified top property features that will add the most value to property prices.<br>
 <br>
 <img src="images/regression.jpg?raw=true"/>
 <br>
-[![See](https://img.shields.io/badge/Jupyter-See%20Notebook-orange?style=for-the-badge&logo=Jupyter)](/notebooks/regression.ipynb)
+[![See](https://img.shields.io/badge/Jupyter-See%20Notebook-orange?style=for-the-badge&logo=Jupyter)](https://github.com/georgie-z/portfolio/blob/source/notebooks/regression.ipynb)
 
