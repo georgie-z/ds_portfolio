@@ -6,7 +6,7 @@
 
 [Fake News Detector & Sentiment Analysis](/sample_page)<br>
 <br>
-I've used NLP techniques and trained a classification model to predict fake news articles. I've also performed sentiment analysis to determine news sentiment.<br>
+I used NLP techniques and trained a classification model to predict fake news articles. I've also performed sentiment analysis to determine news sentiment.<br>
 <br>
 <img src="/images/word_cloud_small.jpg?raw=true"/> 
 
