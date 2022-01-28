@@ -9,7 +9,7 @@
 I've used NLP techniques and trained a classification model to predict fake news articles. I've also performed sentiment analysis to determine news sentiment
 <br>
 <br>
-<img src="/images/word_cloud_small.jpg?raw=true"/>
+<img src="/images/word_cloud_small.jpg?raw=true"/> 
 
 ---
 
