@@ -2,34 +2,32 @@
 
 ---
 
-### Category Name 1 
+### Natural Language Processing
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Fake News Detector & Sentiment Analysis](/sample_page)<br>
+<br>
+<img src="/images/word_cloud_small.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Machine Learning & Exploratory Data Analysis 
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Investment prediction](/sample_page)<br>
+<br>
+<img src="images/learn_curve.jpg?raw=true"/>
 
 ---
 
+### Data Wrangling & Webscraping 
 
-
+[Salary prediction](/sample_page)<br>
+<br>
+<img src="images/salary.jpg?raw=true"/>
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
+### Regression problem 
+
+[Real estate prediction](/sample_page)<br>
+<br>
+<img src="images/regression.jpg?raw=true"/>
