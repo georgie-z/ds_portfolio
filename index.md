@@ -39,7 +39,7 @@ To see detailed evaluation of the model, please refer to my [Model Evaluation Re
 
 ### Data Wrangling & Webscraping 
 
-[Salary prediction](//notebooks/salary/part_3_predictive_modelling.html)<br>
+[Salary prediction](/part_3_predictive_modelling.html)<br>
 <br>
 I've extracted salary data from seek.com.au through web-scraping techniques and trained a classification model to predict data scientist salary.<br>
 <br>
