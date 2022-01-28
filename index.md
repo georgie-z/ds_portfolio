@@ -14,7 +14,8 @@ I used NLP techniques and trained a classification model to predict fake news ar
 
 ### Machine Learning & Exploratory Data Analysis 
 
-[Investment prediction](/sample_page)<br>
+[Investment prediction](/investment_prediction.html)<br>
+[![](link-to-our-badge)](link-to-our-project)
 <br>
 Full end-to-end data science process was applied to predict investment outcomes using Russell 3000 Index financial data. I've performed exploratory data analysis and pre-processing, hypothesis testing, model selection and evaluation, feature selection and model optimisation.<br>
 <br>
