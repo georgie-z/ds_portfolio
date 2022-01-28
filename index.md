@@ -6,13 +6,13 @@
 
 ### Natural Language Processing
 
-[Fake News Detector & Sentiment Analysis](/sample_page)<br>
+[Fake News Detector & Sentiment Analysis](/fake_news_detector.html)<br>
 <br>
 I used NLP techniques and trained a classification model to predict fake news articles. I've also performed sentiment analysis to determine news sentiment.<br>
 <br>
 <img src="images/word_cloud_small.jpg?raw=true"/>
 <br>
-[![See](https://img.shields.io/badge/Jupyter-See%20Notebook-orange?style=for-the-badge&logo=Jupyter)](/jupyter_notebooks)
+[![See](https://img.shields.io/badge/Jupyter-See%20Notebook-orange?style=for-the-badge&logo=Jupyter)](/notebooks/fake_news_detector.ipynb)
 
 
 
