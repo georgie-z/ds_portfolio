@@ -12,6 +12,7 @@ I used NLP techniques and trained a classification model to predict fake news ar
 <br>
 <img src="images/word_cloud_small.jpg?raw=true"/>
 <br>
+<br>
 [![See](https://img.shields.io/badge/Jupyter-See%20Notebook-orange?style=for-the-badge&logo=Jupyter)](/notebooks/fake_news_detector.ipynb)
 
 
