@@ -15,6 +15,7 @@ I used NLP techniques and trained a classification model to predict fake news ar
 <br>
 [![See](https://img.shields.io/badge/Jupyter-See%20Notebook-orange?style=for-the-badge&logo=Jupyter)](/notebooks/fake_news_detector.ipynb)
 <br>
+<br>
 For summary of findings, please refer to my [presentation](/pdf/fake_news_presso.pdf)
 
 
@@ -29,7 +30,9 @@ Full end-to-end data science process was applied to predict investment outcomes 
 <img src="images/learn_curve.jpg?raw=true"/>
 <br>
 [![See](https://img.shields.io/badge/Jupyter-See%20Notebook-orange?style=for-the-badge&logo=Jupyter)](/notebooks/investment_prediction.ipynb)
-
+<br>
+<br>
+To see detailed evaluation of the model, please refer to my [Model Evaluation Report](/pdf/investment_eval_report.pdf)
 
 
 ---
