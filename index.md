@@ -34,23 +34,23 @@ Full end-to-end data science process was applied to predict investment outcomes 
 
 ### Data Wrangling & Webscraping 
 
-[Salary prediction](/sample_page)<br>
+[Salary prediction](//notebooks/salary/part_3_predictive_modelling.html)<br>
 <br>
 I've extracted salary data from seek.com.au through web-scraping techniques and trained a classification model to predict data scientist salary.<br>
 <br>
 <img src="images/salary.jpg?raw=true"/>
 <br>
-[![See](https://img.shields.io/badge/Jupyter-See%20Notebook-orange?style=for-the-badge&logo=Jupyter)](/jupyter_notebooks/)
+[![See](https://img.shields.io/badge/Jupyter-See%20Notebook-orange?style=for-the-badge&logo=Jupyter)](/notebooks/salary/)
 
 ---
 
 ### Regression problem 
 
-[Real estate prediction](/sample_page)<br>
+[Real estate prediction](/regression.html)<br>
 <br>
 I've built regression model to predict real estate property prices. Identified top property features that will add the most value to property prices.<br>
 <br>
 <img src="images/regression.jpg?raw=true"/>
 <br>
-[![See](https://img.shields.io/badge/Jupyter-See%20Notebook-orange?style=for-the-badge&logo=Jupyter)](/jupyter_notebooks)
+[![See](https://img.shields.io/badge/Jupyter-See%20Notebook-orange?style=for-the-badge&logo=Jupyter)](/notebooks/regression.ipynb)
 
