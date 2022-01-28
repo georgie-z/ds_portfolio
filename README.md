@@ -1,7 +1,7 @@
 ## Welcome to my Data Science portfolio
 
 ### About me
-Hi, I'm Georgie. I'm a data science professional with 3+ years’ experience delivering data science solutions with leadership experience and hands-on technical skills in machine learning and Natural Language Processing (NLP).<br>
+Hi, I'm Georgie. I'm a data science professional with 3+ years’ experience delivering data science solutions, leadership experience and hands-on technical skills in machine learning and Natural Language Processing (NLP).<br>
 
 I recently completed a Master's degree in Data Science Strategy and Leadership at RMIT, providing me advanced technical skills, strategy and leadership skills and research capacity to influence leadership and lead data science teams and projects.
 
@@ -17,7 +17,9 @@ I used NLP techniques and trained a classification model to predict fake news ar
 <br>
 <br>
 [![See](https://img.shields.io/badge/Jupyter-See%20Notebook-orange?style=for-the-badge&logo=Jupyter)](/notebooks/fake_news_detector.ipynb)
-
+<br>
+<br>
+For summary of findings, please refer to my [presentation](/pdf/fake_news_presso.pdf)
 
 
 ---
@@ -31,7 +33,9 @@ Full end-to-end data science process was applied to predict investment outcomes 
 <img src="images/learn_curve.jpg?raw=true"/>
 <br>
 [![See](https://img.shields.io/badge/Jupyter-See%20Notebook-orange?style=for-the-badge&logo=Jupyter)](/notebooks/investment_prediction.ipynb)
-
+<br>
+<br>
+To see detailed evaluation of the model, please refer to my [Model Evaluation Report](/pdf/investment_eval_report.pdf)
 
 
 ---
