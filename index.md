@@ -26,7 +26,7 @@ Full end-to-end data science process was applied to predict investment outcomes 
 <br>
 <img src="images/learn_curve.jpg?raw=true"/>
 <br>
-[![See](https://img.shields.io/badge/Jupyter-See%20Notebook-orange?style=for-the-badge&logo=Jupyter)](/jupyter_notebooks/investment_prediction.ipynb)
+[![See](https://img.shields.io/badge/Jupyter-See%20Notebook-orange?style=for-the-badge&logo=Jupyter)](/notebooks/investment_prediction.ipynb)
 
 
 
