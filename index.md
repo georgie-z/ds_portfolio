@@ -1,7 +1,7 @@
 ## Welcome to my portfolio
 ---
-[AI Web Navigator](https://github.com/georgie-z/web_voyager_project/blob/main/README.md)<br>
-<br>
+### AI Web Navigator
+[AI Web Navigator](https://github.com/georgie-z/web_voyager_project/blob/main/README.md)
 
 I built an AI-driven web page navigator using Bunnings website as an example. The core functionality requires the AI to autonomously search for a product, add it to the cart, and navigate to the checkout review page while handling minor UI variations. This project is based on WebVoyager by He, et. al., a vision-enabled web-browsing agent capable of controlling the mouse and keyboard. The agent works by viewing annotated browser screenshots for each turn, then choosing the next step to take. The agent architecture is a basic reasoning and action (ReAct) loop.
 
@@ -9,6 +9,7 @@ I built an AI-driven web page navigator using Bunnings website as an example. Th
   <img src="images/screenshot.png?raw=true width="900" />
 </a>
 
+Repo: [AI Web Navigator](https://github.com/georgie-z/web_voyager_project/blob/main/README.md)
 ---
 
 ### Natural Language Processing
