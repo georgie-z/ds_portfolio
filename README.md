@@ -1,4 +1,4 @@
-## Welcome to my Data Science portfolio
+## Welcome to my portfolio
 
 ### About me
 Hi, I'm Georgie. I'm a data science professional with 3+ years’ experience delivering data science solutions, leadership experience and hands-on technical skills in machine learning and Natural Language Processing (NLP).<br>
@@ -6,6 +6,25 @@ Hi, I'm Georgie. I'm a data science professional with 3+ years’ experience del
 I recently completed a Master's degree in Data Science Strategy and Leadership at RMIT, providing me advanced technical skills, strategy and leadership skills and research capacity to influence leadership and lead data science teams and projects.
 
 ---
+[AI Web Navigator](https://github.com/georgie-z/web_voyager_project/blob/main/README.md)<br>
+<br>
+
+<a href="https://drive.google.com/file/d/17NRo0UA5qV3mxJW9P0stG4rfNWsqbzBR/view?usp=drive_link">
+  <img src="https://github.com/georgie-z/web_voyager_project/blob/main/screenshot.png" width="900" />
+</a>
+
+[Fake News Detector & Sentiment Analysis](/fake_news_detector.html)<br>
+<br>
+I used NLP techniques and trained a classification model to predict fake news articles. I've also performed sentiment analysis to determine news sentiment.<br>
+<br>
+<img src="images/word_cloud_small.jpg?raw=true"/>
+<br>
+<br>
+[![See](https://img.shields.io/badge/Jupyter-See%20Notebook-orange?style=for-the-badge&logo=Jupyter)](https://github.com/georgie-z/portfolio/blob/source/notebooks/fake_news_detector.ipynb)
+<br>
+<br>
+For summary of findings, please refer to my [presentation](/pdf/fake_news_presso.pdf)
+
 
 ### Natural Language Processing
 
