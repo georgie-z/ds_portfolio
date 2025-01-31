@@ -1,7 +1,7 @@
 ## Welcome to my portfolio
 
 ### About me
-Hi, I'm Georgie. I'm a data science and ML professional with 3+ years’ experience delivering data science solutions, leadership experience and hands-on technical skills in machine learning and Natural Language Processing (NLP).<br>
+Hi, I'm Georgie. I'm a data science and ML professional with 3+ years’ experience delivering data science solutions, with leadership experience and hands-on technical skills in machine learning.<br>
 
 I have a Master's degree in Data Science Strategy and Leadership at RMIT, providing me advanced technical skills, strategy and leadership skills and research capacity to influence leadership and lead data science teams and projects.
 
